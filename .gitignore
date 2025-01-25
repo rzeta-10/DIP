@@ -1,2 +1,5 @@
 slides/
 .vscode/
+assignment_1_*.ipynb
+assignments/assignment_1/*.jp2
+assignments/assignment_1/*.jpeg
